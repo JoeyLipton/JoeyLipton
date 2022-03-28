@@ -1,6 +1,11 @@
-### Hi there 👋
+<h3 align="center"> 👋 Hi, I'm Harman Sohi. </h3>
+  <p alight="center"> 
+  <a href="https://joeylipton.ca">My Website</a>
+  </p>
 
-<span style="color:red">`o</span> <span style="color:grey">//</span> <span style="color:red">:</span>.
+
+
+
 
 <!--
 **JoeyLipton/JoeyLipton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
