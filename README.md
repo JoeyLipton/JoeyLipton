@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<span style="color:red">`o</span> <span style="color:grey">//</span> <span style="color:red">:</span>.
+
 <!--
 **JoeyLipton/JoeyLipton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
