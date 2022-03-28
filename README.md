@@ -1,5 +1,5 @@
 <h3 align="center"> 👋 Hi, I'm Harman Sohi. </h3>
-  <p alight="center"> 
+  <p align="center"> 
   <a href="https://joeylipton.ca">My Website</a>
   </p>
 
