@@ -2,7 +2,6 @@
   <p align="center"> 
   <a href="https://joeylipton.ca">My Website</a>
   </p>
-<br />
 
 ---
 I'm a cybersecurity engineer and pentester always looking for something new to learn.
@@ -14,7 +13,7 @@ Feel free to reach out to talk about:
 
 
 ```bash
-:(){ :|: & };:
+$ :(){ :|: & };:
 ```
 
 
