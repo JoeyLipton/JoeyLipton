@@ -7,9 +7,9 @@
 I'm a cybersecurity engineer and pentester.
 
 Feel free to reach out to talk about:
-- 🐧 Anything Linux
-- 🛠️ Bash/Python Automation
-- 🏴‍☠️ Pirating IDA Pro
+- 🐧 systemd or openrc?
+- 🛠️ c/python projects
+- 🏴‍☠️ pirating burp pro
 
 
 ```bash
