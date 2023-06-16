@@ -7,30 +7,11 @@
 I'm a cybersecurity engineer and pentester.
 
 Feel free to reach out to talk about:
-- 🐧 systemd or openrc?
-- 🛠️ c/python projects
-- 🏴‍☠️ pirating burp pro
+- 🐧 which gnu/linux distro philosophy you'd go to war for
+- 🛠️ py/c projects
+- 🏴‍☠️ pirating burp pro and cobalt strike
 
 
 ```bash
 $ :(){ :|: & };:
 ```
-
-
-
-
-
-<!--
-**JoeyLipton/JoeyLipton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
