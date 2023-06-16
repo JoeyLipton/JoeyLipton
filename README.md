@@ -1,4 +1,4 @@
-<h3 align="center"> 👋 Hi, I'm Harman Sohi. </h3>
+<h3 align="center"> 👋 The longer this page is open, the closer it gets. </h3>
   <p align="center"> 
   <a href="https://joeylipton.ca">My Website</a>
   </p>
