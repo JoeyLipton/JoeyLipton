@@ -4,14 +4,9 @@
   </p>
 
 ---
-I'm a cybersecurity engineer and pentester.
 
 Feel free to reach out to talk about:
-- 🐧 which gnu/linux distro philosophy you'd go to war for
-- 🛠️ py/c projects
-- 🏴‍☠️ pirating burp pro and cobalt strike
+- 🐧 optimizing your linux system to get that extra 0.7% performance
+- 🛠️ py/c projects that contribute the the betterment of society
+- 🏴‍☠️ legally paying for $6000 decompilers
 
-
-```bash
-$ :(){ :|: & };:
-```
